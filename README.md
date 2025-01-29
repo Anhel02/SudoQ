@@ -9,7 +9,7 @@ This project was developed as part of the final assignment for the Quantum Techn
 Developed by:
 
 - [Ángel Gómez González](https://github.com/Anhel02)
-- [Alberto Martínez Gallardo]()
+- [Alberto Martínez Gallardo](https://github.com/albrtgallardo)
 - [Javier López Roda]()
 
 ## **Explanation**

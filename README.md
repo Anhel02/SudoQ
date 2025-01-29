@@ -65,7 +65,7 @@ Example `credentials.json` file:
 
   ```json
   {
-    'token' : 'YOUR_IBM_QUANTUM_API_TOKEN'
-    'name' : 'YOUR_ACCOUNT_NAME'
+    "token" : "YOUR_IBM_QUANTUM_API_TOKEN"
+    "name" : "YOUR_ACCOUNT_NAME"
   }
 ```

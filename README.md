@@ -10,7 +10,7 @@ Developed by:
 
 - [Ángel Gómez González](https://github.com/Anhel02)
 - [Alberto Martínez Gallardo](https://github.com/albrtgallardo)
-- [Javier López Roda]()
+- [Javier López Roda](https://github.com/Zeit02)
 
 ## **Explanation**
 
